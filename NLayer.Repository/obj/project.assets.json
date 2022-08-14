@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "NLayer.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/NLayer.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLayer.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "NLayer.Core/1.0.0": {
+      "type": "project",
+      "path": "../NLayer.Core/NLayer.Core.csproj",
+      "msbuildProject": "../NLayer.Core/NLayer.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "NLayer.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ahmet\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj": {
+              "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
