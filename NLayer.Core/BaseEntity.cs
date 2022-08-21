@@ -11,11 +11,7 @@ namespace NLayer.Core
         // yeni bir nesne oluşturulmaması için abstract kullanırız.
         // new anahtar sözcüğünü engeller.
         public int Id { get; set; }
-
         public DateTime CreatedDate { get; set; }
-
         public DateTime UpdateDate { get; set; }
-
-
     }
 }
