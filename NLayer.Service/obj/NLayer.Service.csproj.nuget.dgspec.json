@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Service\\NLayer.Service.csproj": {}
+    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Service\\NLayer.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\obj\\",
+        "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj",
+        "packagesPath": "C:\\Users\\YalinSoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YalinSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,8 +49,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,24 +58,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\NLayer.Repository.csproj": {
+    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\NLayer.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\NLayer.Repository.csproj",
+        "projectUniqueName": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\NLayer.Repository.csproj",
         "projectName": "NLayer.Repository",
-        "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\NLayer.Repository.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\obj\\",
+        "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\NLayer.Repository.csproj",
+        "packagesPath": "C:\\Users\\YalinSoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YalinSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -91,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj"
+              "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj": {
+                "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj"
               }
             }
           }
@@ -128,8 +127,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -138,24 +136,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Service\\NLayer.Service.csproj": {
+    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Service\\NLayer.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Service\\NLayer.Service.csproj",
+        "projectUniqueName": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Service\\NLayer.Service.csproj",
         "projectName": "NLayer.Service",
-        "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Service\\NLayer.Service.csproj",
-        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Service\\obj\\",
+        "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Service\\NLayer.Service.csproj",
+        "packagesPath": "C:\\Users\\YalinSoft\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\YalinSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,8 +168,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\NLayer.Repository.csproj": {
-                "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Repository\\NLayer.Repository.csproj"
+              "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\NLayer.Repository.csproj": {
+                "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Repository\\NLayer.Repository.csproj"
               }
             }
           }
@@ -201,8 +199,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -211,7 +208,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     }
