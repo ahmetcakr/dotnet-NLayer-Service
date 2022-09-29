@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Text.Json.Serialization;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore;
 
 namespace NLayer.Core.DTOs
 {
@@ -26,6 +27,22 @@ namespace NLayer.Core.DTOs
         {
             return new CustomResponseDto<T> { StatusCode = statusCode, Errors=errors };
         }
+
+        public static CustomResponseDto<T> Success(List<ProductDto> productsDtos)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static Microsoft.AspNetCore.Mvc.IActionResult Success(int v, object product)
+        {
+            throw new NotImplementedException();
+        }
+
+        public static CustomResponseDto<T> Success(ProductDto productsDto)
+        {
+            throw new NotImplementedException();
+        }
+
         public static CustomResponseDto<T> Fail(int statusCode,String error)
         {
             return new CustomResponseDto<T> { StatusCode = statusCode, Errors = new List<String> {error} };

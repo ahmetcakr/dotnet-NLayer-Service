@@ -10,7 +10,22 @@
       "ProjectGuid": "5cebb634-d83e-4e99-bf5b-a372122abee5",
       "DisplayName": "NLayer.Core",
       "ColorIndex": 1
+    },
+    "3d5f95f0-1007-4d78-bd10-f4505d0ec394": {
+      "ProjectGuid": "3d5f95f0-1007-4d78-bd10-f4505d0ec394",
+      "DisplayName": "NLayer.Caching",
+      "ColorIndex": 2
+    },
+    "b389cee8-8665-4004-9416-0427369f8e62": {
+      "ProjectGuid": "b389cee8-8665-4004-9416-0427369f8e62",
+      "DisplayName": "NLayer.Repository",
+      "ColorIndex": 3
+    },
+    "5e857712-4877-4075-a8ee-4ba662a51b35": {
+      "ProjectGuid": "5e857712-4877-4075-a8ee-4ba662a51b35",
+      "DisplayName": "NLayer.Service",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 5
 }

@@ -132,3 +132,16 @@ C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\obj\Debug
 C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
 C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
 C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\YalinSoft\Desktop\NLayerRepo\dotnet-NLayer-Service\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
