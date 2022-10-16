@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj": {}
+    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj": {
+    "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj",
         "projectName": "NLayer.Core",
-        "projectPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\NLayer.Core.csproj",
-        "packagesPath": "C:\\Users\\YalinSoft\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YalinSoft\\Desktop\\NLayerRepo\\dotnet-NLayer-Service\\NLayer.Core\\obj\\",
+        "projectPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\NLayer.Core.csproj",
+        "packagesPath": "C:\\Users\\ahmet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ahmet\\OneDrive\\Masaüstü\\RestfulAPI\\NLayerAPI\\NLayerAPI\\NLayer.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\YalinSoft\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,7 +63,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -72,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
